@@ -1,0 +1,61 @@
+[
+    {
+        "id": 1,
+        "name": "john",
+        "gender": "male"
+    },
+
+    {
+        "id": 2,
+        "name": "riya",
+        "gender": "female"
+    },
+
+    {
+        "id": 3,
+        "name": "priya",
+        "gender": "female"
+    },
+
+    {
+        "id": 4,
+        "name": "neil",
+        "gender": "male"
+    },
+
+    {
+        "id": 5,
+        "name": "jacky",
+        "gender": "male"
+    },
+
+    {
+        "id": 6,
+        "name": "rocky",
+        "gender": "male"
+    },
+
+    {
+        "id": 7,
+        "name": "rita",
+        "gender": "female"
+    },
+
+    {
+        "id": 8,
+        "name": "payal",
+        "gender":"female"
+    },
+
+    {
+        "id": 9,
+        "name": "hina",
+        "gender": "female"
+    },
+
+    {
+        "id": 10,
+        "name":"shyam",
+        "gender": "male"
+    }
+]
